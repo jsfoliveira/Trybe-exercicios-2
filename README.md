@@ -1,4 +1,4 @@
-# Trybe-exercicios-2
+# Segunda parte dos exercícios que realizei no curso de desenvolvimento web da Trybe.
 <br />
 Bloco 15: Testes em React <br />
  15-1: Testando React com a React Testing Library <br />
